@@ -29,7 +29,7 @@
   | --------- | --------------- |
   | **NAME**  | **VARCHAR(50)** |
   | **TYPE**  | **VARCHAR(50)** |
-  | PRICE**** | **INT**         |
+  | **PRICE** | **INT**         |
   | **STOCK** | **INT**         |
   | **IMG**   | **VARCHAR(50)** |
 
